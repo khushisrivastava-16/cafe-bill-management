@@ -36,14 +36,3 @@ bill.txt – Generated bill sample (if any)
 
 README.md – Project overview
 
-
-💡 How to Use
-
-1. Clone the repository:
-
-git clone https://github.com/yourusername/cafe-bill-manager.git
-
-
-2. Run the program:
-
-python main.py
